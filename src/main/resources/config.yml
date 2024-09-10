@@ -1,0 +1,6 @@
+#VelocityGsayPlugin Config
+system-name: "THE SYSTEM"
+discord:
+  enable: false
+  token: "token"
+  channel: "channel"

@@ -6,7 +6,7 @@
 
     <groupId>com.github.shin_ideal</groupId>
     <artifactId>VelocityGsayPlugin</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>VelocityGsayPlugin</name>

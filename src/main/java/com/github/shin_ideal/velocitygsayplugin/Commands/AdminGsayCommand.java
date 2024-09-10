@@ -25,7 +25,7 @@ public class AdminGsayCommand implements SimpleCommand {
         CommandSource source = invocation.source();
         String[] args = invocation.arguments();
 
-        if (!source.hasPermission("VelocityGsayPlugin.command.gtell")) {
+        if (!source.hasPermission("VelocityGsayPlugin.command.admingsay")) {
             source.sendMessage(Component.text("You don't have permission.").color(TextColor.color(255, 0, 0)));
             return;
         }
